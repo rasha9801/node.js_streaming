@@ -1,0 +1,26 @@
+{
+  "name": "node.js_streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "watch": "tsc --watch",
+    "start": "node --env-file-if-exists=.env dist/index.js",
+    "dev": "npm run build & npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.0",
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "line-transform-stream": "^1.0.1",
+    "node.js_streaming": "file:",
+    "nodemon": "^3.1.9",
+    "typescript": "^5.7.3",
+    "winston": "^3.17.0"
+  }
+}
