@@ -1,9 +1,11 @@
-## How to run the application:
-run the following command lines using cmd
+## How to run the application
+Using cmd, inside the project directory run the following command lines
 - npm run build: to build the application
 - npm run start: to run the application
-### Note
-you have to be inside the application directory
+
+## Project run decleration
+...\node.js_streaming>npm run build</br>
+...\node.js_streaming>npm run start
 
 ## Dependecies
     npm i express
