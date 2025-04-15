@@ -3,7 +3,7 @@ Using cmd, inside the project directory run the following command lines
 - npm run build: to build the application
 - npm run start: to run the application
 
-## Project run decleration
+## Project run declaration
 ...\node.js_streaming>npm run build</br>
 ...\node.js_streaming>npm run start
 
