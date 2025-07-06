@@ -1,3 +1,4 @@
+# Streaming application
 Node.js application using TypeScript and Express that reads a large text file, processes the data by adding a prefix, and writes the processed data along with an API response to a new file.
 
 ## How to run the application
